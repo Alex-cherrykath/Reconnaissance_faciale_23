@@ -51,7 +51,7 @@ Tkinter / PyQt (optionnel)	Interface graphique
 
 ⚙️ Installation et configuration
 1️⃣ Cloner le dépôt
-git clone https://github.com/<votre_nom>/Reconnaissance_faciale_23.git
+git clone https://github.com/Alex-cherrykath/Reconnaissance_faciale_23.git
 cd Reconnaissance_faciale_23;
 
 2️⃣ Créer un environnement virtuel (optionnel mais recommandé)

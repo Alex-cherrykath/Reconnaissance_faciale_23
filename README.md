@@ -116,5 +116,5 @@ Il fonctionne en quatre étapes :
 
 🧑‍💻 Auteurs
 
-Développeur principal : Alexandre Chery
-📧 Contact : alexandre@example.com
+Développeur principal : Alexandre Cherry Kath
+📧 Contact : alexandrecherrykath@gmail.com
